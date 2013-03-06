@@ -1,0 +1,3 @@
+module cn.iyinchao
+plugin CREngine
+typeinfo crengine.qmltypes

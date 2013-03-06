@@ -1,0 +1,15 @@
+import QtQuick.tooling 1.1
+
+// This file describes the plugin-supplied types contained in the library.
+// It is used for QML tooling purposes only.
+//
+// This file was auto-generated with the command 'D:\Qt\Qt5.0.1\5.0.1\mingw47_32\bin\qmlplugindump.exe -notrelocatable cn.iyinchao 1.0 E:\Documents\Qt\Reversi1\Core\plugin\'.
+
+Module {
+    Component {
+        name: "CREngine"
+        defaultProperty: "data"
+        prototype: "QQuickItem"
+        exports: ["cn.iyinchao/CREngine 1.0"]
+    }
+}

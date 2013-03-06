@@ -1,0 +1,18 @@
+import QtQuick.tooling 1.1
+
+// This file describes the plugin-supplied types contained in the library.
+// It is used for QML tooling purposes only.
+//
+// This file was auto-generated with the command 'D:\Qt\Qt5.0.1\5.0.1\mingw47_32\bin\qmlplugindump.exe -notrelocatable Plugin 1.0 E:\Documents\Qt\Reversi1\lab\qmllab'.
+
+Module {
+    Component {
+        name: "Logic"
+        defaultProperty: "data"
+        prototype: "QQuickItem"
+        exports: ["Plugin/Logic 1.0"]
+        Signal { name: "done" }
+        Method { name: "passSignal" }
+        Method { name: "threadRun" }
+    }
+}
